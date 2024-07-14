@@ -3,9 +3,9 @@
 line 2 changed remotely
 ds-toolbox module3 assignment
 
+This is the recipe for **pesto** from the **Moosewood Restaurant** cookbook.
+It is by far my favorite use for basil. The latin name for basil is *Ocimum basilicum*
 
-This is the recipe for pesto from the Moosewook Restaurant cookbook.
-It is by far my favorite use for basil. 
 ### This is a REMOTE change :O
 
 # Level 1 Header
@@ -18,5 +18,3 @@ It is by far my favorite use for basil.
 2. second item
 3. third item
 4. fourth item
-
-
