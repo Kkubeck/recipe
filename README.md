@@ -18,3 +18,7 @@ It is by far my favorite use for basil. The latin name for basil is *Ocimum basi
 2. second item
 3. third item
 4. fourth item
+
+### Add illustration
+
+![Pesto Illustration](recipe.jpg)
